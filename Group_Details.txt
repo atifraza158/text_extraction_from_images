@@ -1,0 +1,9 @@
+Project Title: Text Extraction From Images
+
+Group Members Names:
+ 
+1. M-Atif Raza - 2021-ag-5807
+2. Ahmar Ali Shahid - 2021-ag-5741
+3. Ahmad Shoukat - 2021-ag-5778
+4. Rehan Nadeem - 2021-ag-5761
+5. Ahsan Saleem - 2021-ag-5745
